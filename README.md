@@ -87,4 +87,10 @@ These must be cleaned with:
 df['ENTRADAS'] = df['ENTRADAS'].str.replace('.', '').astype(int)
 df['SALIDAS'] = df['SALIDAS'].str.replace('.', '').astype(int)
 df['TOTAL'] = df['TOTAL'].str.replace('.', '').astype(int)
+```
 
+
+ ## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://tinyurl.com/matiasgangui)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-gangui-660654175/)
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/matias258)
