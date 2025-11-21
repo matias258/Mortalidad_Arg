@@ -1,4 +1,4 @@
-# Argentina Population & Migration Analysis (2019–2024)
+# Argentina Mortality Analysis (2019–2024)
 
 This repository contains datasets and analysis notebooks focused on modeling Argentina's population dynamics using demographic and migratory flows between the years **2019 and 2024**.
 
